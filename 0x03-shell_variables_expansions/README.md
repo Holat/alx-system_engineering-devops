@@ -7,3 +7,4 @@ create local variable
 Create global variable
 True KNowledge
 Divide and rule
+BREATH and LOVE
