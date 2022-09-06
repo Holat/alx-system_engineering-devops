@@ -5,3 +5,4 @@ Global variables
 Local Variables
 create local variable
 Create global variable
+True KNowledge
